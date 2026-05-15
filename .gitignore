@@ -1,0 +1,6 @@
+.env
+__pycache__/
+scratch/
+outputs/
+*.parquet
+.DS_Store
